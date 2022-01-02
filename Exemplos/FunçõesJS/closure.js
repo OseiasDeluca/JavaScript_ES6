@@ -26,3 +26,8 @@ const initFn2 = initFn1()
 const initFn3 = initFn2()
 
 initFn3()
+
+//O que aparecerá quando for executada:
+// 1 - O valor da variável exemplo é: Essa variável.
+// 2 - O valor da variável exemplo é: Essa variável.
+// 3 - O valor da variável exemplo é: Essa variável.
