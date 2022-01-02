@@ -4,7 +4,7 @@ function init() { // Essa função init retorna uma outra função
     const exemplo = 'Essa variável' // Cria uma variável exemplo
 
     return function(){
-        console.log(`1 - O valor da variável exemplo é: ${exemplo}.`)
+        console.log(`1 - O valor da variável exemplo é: ${exemplo}.`) // Todas as funções utilizam o valor de ${exemplo}
 
         return function(){
             console.log(`2 - O valor da variável exemplo é: ${exemplo}`)
