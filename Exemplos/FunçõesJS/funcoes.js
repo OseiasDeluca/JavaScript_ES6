@@ -9,4 +9,4 @@ function logFn(fn) { // Recebe uma função por parâmetro
 }
 const logFnResult = logFn // Atribuir com uma variável
 
-logFnResult(getName) // Passada por argumentos (Passando a fução getName)
+logFnResult(getName) // Passada por argumentos (Passando a fuNção getName)
