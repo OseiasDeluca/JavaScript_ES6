@@ -46,7 +46,7 @@ const personsWithCourse = persons.map(person => {
 
 console.log('\nPessoas com a adição do course:', personsWithCourse);
 
-// Transformar umarray em outro tipo
+// Transformar um array em outro tipo
 const totalAge = persons.reduce((age, person) => {
     age += person.age;
 }, 0);
