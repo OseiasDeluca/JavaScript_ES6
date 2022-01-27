@@ -1,4 +1,6 @@
 /*
+
+    Introdução a orientação a objetos:
     - Herança;
     - Classes;
     - Modificadores de acesso;
